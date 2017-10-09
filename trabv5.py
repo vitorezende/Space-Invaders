@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
 Universidade Federal de Mato Grosso - Campus Universitario do Araguaia
 Dicente: Vitor Rezende Campos
